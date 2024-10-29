@@ -1,3 +1,4 @@
 1. git init : 저장소 만들기
 2. git add test.txt : 관리할 파일 선택하기
 3. git commit -m "3번 commit까지 작성"
+4. 추가작업 어쩌고 저쩌고
